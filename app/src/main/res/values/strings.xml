@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="lanjutkan1">LANJUTKAN</string>
+    <string name="dsc_title">"Dapatkan info tournament Game \n terupdate dan terpercaya, Game apapun di Indonesia" </string>
+    <string name="title">TOURNAMENT GAME</string>
+    <string name="sign_in">Sign In</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="nama_anda">Nama Lengkap</string>
+    <string name="nomer_hp">Nomer HP</string>
+    <string name="emal_anda">E-mail</string>
+    <string name="daftar_akun">Daftar</string>
 </resources>
